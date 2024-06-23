@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me
 
-<!--
-**ValentinaCifras/ValentinaCifras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 ¡Hola! Soy Valentina, una desarrolladora Full Stack Python recién graduada de Santiago, Chile.
 
-Here are some ideas to get you started:
+🎓 Acabo de completar mi bootcamp de Desarrollo Full Stack Python y estoy entusiasmada por comenzar mi carrera profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tengo experiencia en la creación de sitios web utilizando HTML, CSS y Bootstrap, así como en el desarrollo dinámico con JQuery. Además, manejo bases de datos PostgreSQL 
+   y tengo habilidades en Python y Django, lo que me capacita para diseñar y desarrollar aplicaciones web robustas y funcionales.
+   
+🌱 Estoy ansiosa por aplicar mis habilidades recién adquiridas y continuar aprendiendo en un entorno colaborativo.
+
+📧 Puedes contactarme por correo electrónico en valentina.cifras@gmail.com.
+
